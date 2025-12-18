@@ -1,6 +1,5 @@
 # CX/CS 4803/7643 - Machine Learning for Computational Biology
 
-**Georgia Institute of Technology**
 
 ## Overview
 
@@ -87,7 +86,4 @@ Machine_Learning_Comp_Bio_4803/
 - Graph representation learning and message passing
 - Handling variable-length biological sequences
 
-## Contact
 
-Celine Alnoubani
-Georgia Institute of Technology
